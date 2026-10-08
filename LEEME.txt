@@ -1,0 +1,7 @@
+EVERMORE - sitio actualizado
+
+Abre index.html en un navegador. Mantén la carpeta assets junto al archivo para que se vean los catálogos de materiales.
+
+Se conservaron el diseño y estructura del sitio original y se actualizaron los productos y las opciones de personalización. Los diseños de Jardín de Tulipanes aparecen como Diseño 1-5 porque sus nombres individuales no estaban confirmados. Los productos sin precio confirmado se muestran como Precio no definido.
+
+Nota: las fotografías individuales de algunas pulseras aún deben incorporarse donde aparecen emojis; los cinco catálogos de materiales enviados sí están incluidos.
